@@ -1,6 +1,6 @@
 ### Hello World, I'm Mustafa KURT  👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohze15TQsHnWxQfm0/giphy.gif" width="500" height="320" />
 
 ## I'm a Junior, Reader, Developer, Traveler, and Researcher!!
 - ✍ You can find my projects here [portfolio]
