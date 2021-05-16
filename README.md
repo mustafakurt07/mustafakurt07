@@ -33,12 +33,12 @@
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 <br />
-
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="Left" alt="Mustafa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mustafakurt07&show_icons=true&hide_border=true" />
+  <img align="Right" alt="Mustafa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mustafakurt07&show_icons=true&hide_border=true" />
 
 </details>
 
