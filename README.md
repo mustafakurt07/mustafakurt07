@@ -34,7 +34,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mustafakurt07&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mustafa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mustafakurt07&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -45,8 +45,6 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
+
 [linkedin]: https://www.linkedin.com/in/mustafa-kurt-07/
 [portfolio]: https://github.com/mustafakurt07
