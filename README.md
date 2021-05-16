@@ -1,7 +1,9 @@
 ### Hi there 👋
+I am Mustafa Kurt from Turkey,  I am new grad person. I'm working on android, flutter, RoR and unity. I like to improve myself.
 
-<!--
-**mustafakurt07/mustafakurt07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakurt07)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Here are some ideas to get you started:
 
