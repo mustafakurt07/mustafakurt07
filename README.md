@@ -1,6 +1,6 @@
 ### Hello World, I'm Mustafa KURT  👋
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width="500" height="280" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width="400" height="270" />
 
 ## I'm a Human, Reader, Developer, Traveler, and Researcher!!
 - ✍ You can find my projects here [portfolio]
