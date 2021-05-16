@@ -1,9 +1,9 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Mustafa KURT  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+## I'm a Junior, Traveler, Developer, Reader, and Researcher!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
@@ -54,8 +54,5 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[linkedin]: https://www.linkedin.com/in/mustafa-kurt-07/
+[portfolio]: https://github.com/mustafakurt07
