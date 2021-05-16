@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakurt07" />
+<img align="left" alt="Mustafa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakurt07" />
 
 </details>
 
