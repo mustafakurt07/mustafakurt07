@@ -1,11 +1,6 @@
 ### Hello World, I'm Mustafa KURT  👋
 
-<div align="right" width="50">
-
-<a  href="https://github.com/SP-XD">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/> <br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a>  
-
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Junior, Reader, Developer, Traveler, and Researcher!!
 - ✍ You can find my projects here [portfolio]
