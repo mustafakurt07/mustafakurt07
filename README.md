@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width="500" height="280" />
 
-## I'm a Junior, Reader, Developer, Traveler, and Researcher!!
+## I'm a Human, Reader, Developer, Traveler, and Researcher!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my Taralog.
 - 🌱 I’m currently learning Unity and Flutter
