@@ -1,6 +1,6 @@
 ### Hello World, I'm Mustafa KURT  👋
 
-<div align="center" width="50">
+<div align="right" width="50">
 
 <a  href="https://github.com/SP-XD">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/> <br>
