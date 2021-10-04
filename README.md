@@ -5,7 +5,7 @@
 ## I'm a Human, Reader, Developer, Traveler, and Researcher!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my Taralog.
-- 🌱 I’m currently learning Unity and Flutter
+- 🌱 I’m currently learning Kotlin& Android
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/his
